@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catalogusauctor00teisgoog_0557.png"; bbox 0 0 1163 1494; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 263 345 749 484">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 263 345 749 484">
+     <span class='ocr_line' id='line_1_1' title="bbox 263 345 749 484; baseline -0.004 -54"><span class='ocrx_word' id='word_1_1' title='bbox 263 345 749 484; x_wconf 53' lang='lat' dir='ltr'>APPEANOEX</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 183 510 828 551">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 183 510 828 551">
+     <span class='ocr_line' id='line_1_2' title="bbox 183 510 828 551; baseline -0.003 -4"><span class='ocrx_word' id='word_1_2' title='bbox 183 510 510 550; x_wconf 89' lang='lat' dir='ltr'>CATALOGVM</span> <span class='ocrx_word' id='word_1_3' title='bbox 528 512 828 551; x_wconf 75' lang='lat' dir='ltr'>AVCTORVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 183 579 827 661">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 183 579 827 661">
+     <span class='ocr_line' id='line_1_3' title="bbox 468 579 547 608; baseline -0.013 -7"><span class='ocrx_word' id='word_1_4' title='bbox 468 579 547 608; x_wconf 61' lang='lat' dir='ltr'>QVI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 183 628 827 661; baseline 0 -4"><span class='ocrx_word' id='word_1_5' title='bbox 183 628 416 657; x_wconf 85' lang='lat' dir='ltr'>LIBRORVM</span> <span class='ocrx_word' id='word_1_6' title='bbox 440 628 727 661; x_wconf 83' lang='lat' dir='ltr'>CATALOGOS,</span> <span class='ocrx_word' id='word_1_7' title='bbox 749 629 827 658; x_wconf 86' lang='lat' dir='ltr'>VEL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 253 675 745 753">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 253 675 745 753">
+     <span class='ocr_line' id='line_1_5' title="bbox 253 675 745 703; baseline 0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 253 676 464 703; x_wconf 70' lang='lat' dir='ltr'>DoctoRuM</span> <span class='ocrx_word' id='word_1_9' title='bbox 484 676 546 703; x_wconf 67' lang='lat' dir='ltr'>Vn&lt;</span> <span class='ocrx_word' id='word_1_10' title='bbox 557 682 652 703; x_wconf 68' lang='lat' dir='ltr'>onvm</span> <span class='ocrx_word' id='word_1_11' title='bbox 673 675 745 703; x_wconf 73' lang='lat' dir='ltr'>Vitae</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 409 715 613 753; baseline -0.005 -10"><span class='ocrx_word' id='word_1_12' title='bbox 409 715 613 753; x_wconf 65' lang='lat' dir='ltr'><em>conscripserunta.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 218 764 827 809">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 218 764 827 809">
+     <span class='ocr_line' id='line_1_7' title="bbox 218 764 827 809; baseline 0.002 -1"><span class='ocrx_word' id='word_1_13' title='bbox 218 779 272 808; x_wconf 79' lang='lat' dir='ltr'>AB</span> <span class='ocrx_word' id='word_1_14' title='bbox 309 779 524 809; x_wconf 73' lang='lat' dir='ltr'>ANTONIO</span> <span class='ocrx_word' id='word_1_15' title='bbox 553 779 793 809; x_wconf 72' lang='lat' dir='ltr'>Tfflssssmo-</span> <span class='ocrx_word' id='word_1_16' title='bbox 826 764 827 768; x_wconf 70' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
